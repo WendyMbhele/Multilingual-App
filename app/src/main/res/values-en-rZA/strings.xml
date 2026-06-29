@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_first">Button</string>
+    <string name="click_button_to_continue">Click button to continue</string>
+    <string name="button_second">Previous</string>
+    <string name="textView8">Welcome to page 2</string>
+    <string name="english">btnEnglish</string>
+    <string name="English">btnEnglish</string>
+    <string name="btnEnglish">English</string>
+</resources>

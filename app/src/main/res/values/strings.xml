@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Multilingual App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button">Knoppie</string>
+    <string name="button_first">Button</string>
+    <string name="button_third">Inkinobho</string>
+    <string name="click_button_to_continue">Click button to continue</string>
+    <string name="chofoza_inkinobho_ukuze_uqhubeke">Chofoza inkinobho ukuze uqhubeke</string>
+    <string name="klik_knoppie_om_voort_te_gaan">Klik knoppie om voort te gaan</string>
+    <string name="textView3">Welkom op bladsy 2</string>
+    <string name="textView4">TextView</string>
+    <string name="button_second">Previous</string>
+    <string name="button_fourth">Knoppie</string>
+    <string name="textview3">Wamukelekile ekhasini lesi-2</string>
+    <string name="button_fifth">Edlule</string>
+    <string name="textview5">Welkom op bladsy 2</string>
+    <string name="button_sixth">Vorige</string>
+    <string name="third_fragment_label" />
+    <string name="textView8">Welcome to page 2</string>
+    <string name="english">btnEnglish</string>
+    <string name="isizulu">btnZulu</string>
+    <string name="afrikaans">btnAfrikaans</string>
+    <string name="English">btnEnglish</string>
+    <string name="btnEnglish">English</string>
+    <string name="btnZulu">IsiZulu</string>
+    <string name="btnAfrikaans">Afrikaans</string>
+    <string name="appbar_scrolling_view_behavior" />
+</resources>

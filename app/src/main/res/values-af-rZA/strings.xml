@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="klik_knoppie_om_voort_te_gaan">Klik knoppie om voort te gaan</string>
+    <string name="button_fourth">Knoppie</string>
+    <string name="textview5">Welkom op bladsy 2</string>
+    <string name="button_sixth">Vorige</string>
+    <string name="afrikaans">btnAfrikaans</string>
+    <string name="btnAfrikaans">Afrikaans</string>
+</resources>

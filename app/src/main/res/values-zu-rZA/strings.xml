@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_third">Inkinobho</string>
+    <string name="chofoza_inkinobho_ukuze_uqhubeke">Chofoza inkinobho ukuze uqhubeke</string>
+    <string name="textview3">Wamukelekile ekhasini lesi-2</string>
+    <string name="button_fifth">Edlule</string>
+    <string name="third_fragment_label" />
+    <string name="isizulu">btnZulu</string>
+    <string name="btnZulu">IsiZulu</string>
+</resources>
